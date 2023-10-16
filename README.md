@@ -1,3 +1,11 @@
+### Introduction
+The goal of this repo is to combine the Freenove 4WD Smart Car for Raspberry Pi with various AI blocks.
+
+### Current State
+- [x] Freenove 4WD Smart Car built
+- [x] Raspberry Pi 3 configuration completed
+- [x] Car sensors tested (image, obstacle distance, sound and led)
+
 ### Useful commands for car control
 
 |   | Command  |
