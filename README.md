@@ -1,5 +1,5 @@
-### Introduction
-The goal of this repo is to combine the Freenove 4WD Smart Car for Raspberry Pi with various AI blocks.  
+## SmartCar
+Combine the Freenove 4WD Smart Car for Raspberry Pi with various AI blocks.  
 
 ### Project 1: Room 3D model
 The first project is implement a room exploration algorithm coupled with obstacle avoidance to avoid crashing the car. Once the room explored the output should be a video of the room, this will then be fed to Neuralangelo (https://github.com/NVlabs/neuralangelo) to build a 3D surface model of my room.
